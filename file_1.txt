@@ -3,5 +3,5 @@ I am here to test my Git and Github Skills
 
 Version Control (Distributed) is important for project work management, Hence it is also important for the PM job role
 
-This is another edit made fir Slkaves to show the reality. Long Live Command Line
+This is another edit made for Slkaves to show the reality. Long Live Command Line
 This is made only on slave_1
