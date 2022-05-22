@@ -1,4 +1,4 @@
-Hi I am Saksham Saxena
-I am here to test my Git and Github skills
+Hello world! This is Saksham Saxana here
+I am here to test my Git and Github Skills
 
-This exercise is a part of developing hard skills for PM role
+Version Control (Distributed) is important for project work management, Hence it is also important for the PM job role
